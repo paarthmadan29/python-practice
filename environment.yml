@@ -1,0 +1,7 @@
+name: cs197lec2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.13
+  - tqdm
+prefix: /home/paarthmadan/mambaforge/envs/cs197lec2
